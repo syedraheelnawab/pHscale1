@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(173, 225, 245);
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+    }
+    h1 {
+    background-color: #0253cc;
+    padding: 20px 20px;
+    color: #f7e650;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    }
+    p {
+    padding: 10px;
+    margin: 0px;
+    font-family:cursive
+    }   
+    p.a {
+    background-color: rgb(120, 125, 25);}
+    p.b {
+    background-color: rgb(140,135,45);}
+    p.c {
+    background-color: rgb(160,145,65);}
+    p.d{
+    background-color: rgb(180,155,85);}
+    p.e {
+    background-color: rgb(200,165,105);}
+    p.f {
+    background-color: rgb(220,175,125);}
+    p.g {
+    background-color: rgb(240, 195, 145);}
+    p.h {
+    background-color: rgb(7, 121, 54);}
+    p.i {
+    background-color: rgb(271,120,342);}
+    p.j {
+    background-color: rgb(251,100,320);}
+    p.k {
+    background-color: rgb(231,80,300);}
+    p.l {
+    background-color: rgb(211,60,280);}
+    p.m{
+    background-color: rgb(191,40,260);}
+    p.n {
+    background-color: rgb(171, 20, 240);}
+    p.o {
+    background-color: rgb(151, 0, 221);}
